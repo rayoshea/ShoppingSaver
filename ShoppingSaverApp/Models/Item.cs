@@ -9,7 +9,7 @@ namespace ShoppingSaverApp.Models
     {
         public string ItemID { get; set; }
 
-        public int ProductCode {get; set;}
+        public int ProductCode { get; set; }
         public double Price { get; set; }
         public string Category { get; set; }
         public double Size { get; set; }
